@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Solar Runner",
+    "description": "",
+    "home_page_url": "https://solarrunner81.github.io/SolarRunner81.github.io",
+    "feed_url": "https://solarrunner81.github.io/SolarRunner81.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Nathan"
+    },
+    "items": [
+        {
+            "id": "https://solarrunner81.github.io/SolarRunner81.github.io/blocked-education.html",
+            "url": "https://solarrunner81.github.io/SolarRunner81.github.io/blocked-education.html",
+            "title": "Blocked Education",
+            "summary": "Can I learn how to make a simple website? Screenshot from No Man's Sky Thanks to EposVox, I have been encouraged to try to build&hellip;",
+            "content_html": "\n    <h2 id=\"can-i-learn-how-to-make-a-simple-website\">\n      Can I learn how to make a simple website?\n    </h2>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/275850_20230903001954_1.png\" height=\"1080\" width=\"1920\" alt=\"A photo from the video game No Man's Sky. The photo has the inner cockpit of a spaceship travelling towards a planet. There are streaks of light running across the cockpit glass suggesting the ship is moving faster than light \"  sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-xs.png 300w ,https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-sm.png 480w ,https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-md.png 768w ,https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-lg.png 1024w\">\n      <figcaption>Screenshot from No Man's Sky</figcaption>\n    </figure>\n\n  <p>\n    Thanks to EposVox, I have been encouraged to try to build out my own static website. I am hoping it will be educational on what is needed to put up something that is visible and intractable with the internet that is completely disconnected from any ownership or 3rd party objectives.\n  </p>\n\n  <p>\n    Although I have experience with full stack development, creating back end services, APIs, as well as HTTP websites and UIXs, I have not created then hosted any on my own. This is my testing grounds.\n  </p>",
+            "author": {
+                "name": "Nathan"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-02T18:02:41-06:00",
+            "date_modified": "2025-03-02T18:02:41-06:00"
+        },
+        {
+            "id": "https://solarrunner81.github.io/SolarRunner81.github.io/welcome-to-my-web-page.html",
+            "url": "https://solarrunner81.github.io/SolarRunner81.github.io/welcome-to-my-web-page.html",
+            "title": "Welcome to my web page!",
+            "summary": "This is a test of Publii!",
+            "content_html": "<p>This is a test of Publii!</p>",
+            "author": {
+                "name": "Nathan"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-02T17:44:42-06:00",
+            "date_modified": "2025-03-02T17:44:42-06:00"
+        }
+    ]
+}
