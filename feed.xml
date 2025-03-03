@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Solar Runner</title>
-    <link href="https://solarrunner81.github.io/SolarRunner81.github.io/feed.xml" rel="self" />
-    <link href="https://solarrunner81.github.io/SolarRunner81.github.io" />
+    <link href="https://SolarRunner81.github.io/feed.xml" rel="self" />
+    <link href="https://SolarRunner81.github.io" />
     <updated>2025-03-02T18:02:41-06:00</updated>
     <author>
         <name>Nathan</name>
     </author>
-    <id>https://solarrunner81.github.io/SolarRunner81.github.io</id>
+    <id>https://SolarRunner81.github.io</id>
 
     <entry>
         <title>Blocked Education</title>
         <author>
             <name>Nathan</name>
         </author>
-        <link href="https://solarrunner81.github.io/SolarRunner81.github.io/blocked-education.html"/>
-        <id>https://solarrunner81.github.io/SolarRunner81.github.io/blocked-education.html</id>
+        <link href="https://SolarRunner81.github.io/blocked-education.html"/>
+        <id>https://SolarRunner81.github.io/blocked-education.html</id>
 
         <updated>2025-03-02T18:02:41-06:00</updated>
             <summary>
@@ -31,7 +31,7 @@
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/275850_20230903001954_1.png" height="1080" width="1920" alt="A photo from the video game No Man's Sky. The photo has the inner cockpit of a spaceship travelling towards a planet. There are streaks of light running across the cockpit glass suggesting the ship is moving faster than light "  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-xs.png 300w ,https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-sm.png 480w ,https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-md.png 768w ,https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-lg.png 1024w">
+      <img loading="lazy" src="https://SolarRunner81.github.io/media/posts/2/275850_20230903001954_1.png" height="1080" width="1920" alt="A photo from the video game No Man's Sky. The photo has the inner cockpit of a spaceship travelling towards a planet. There are streaks of light running across the cockpit glass suggesting the ship is moving faster than light "  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-xs.png 300w ,https://SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-sm.png 480w ,https://SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-md.png 768w ,https://SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-lg.png 1024w">
       <figcaption>Screenshot from No Man's Sky</figcaption>
     </figure>
 
@@ -50,8 +50,8 @@
         <author>
             <name>Nathan</name>
         </author>
-        <link href="https://solarrunner81.github.io/SolarRunner81.github.io/welcome-to-my-web-page.html"/>
-        <id>https://solarrunner81.github.io/SolarRunner81.github.io/welcome-to-my-web-page.html</id>
+        <link href="https://SolarRunner81.github.io/welcome-to-my-web-page.html"/>
+        <id>https://SolarRunner81.github.io/welcome-to-my-web-page.html</id>
 
         <updated>2025-03-02T17:44:42-06:00</updated>
             <summary>
