@@ -20,7 +20,7 @@
         <updated>2025-03-02T18:02:41-06:00</updated>
             <summary>
                 <![CDATA[
-                    Can I learn how to make a simple website? Screenshot from No Man's Sky Thanks to EposVox, I have been encouraged to try to build&hellip;
+                    Can I learn how to make a simple website? Screenshot from No Man's Sky Thanks to EposVox, I have been encouraged to try to build out my own static website. I am hoping it will be educational on what is needed to put up something&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -31,7 +31,7 @@
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/275850_20230903001954_1.png" height="1080" width="1920" alt="A photo from the video game No Man's Sky. The photo has the inner cockpit of a spaceship travelling towards a planet. There are streaks of light running across the cockpit glass suggesting the ship is moving faster than light "  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-xs.png 300w ,https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-sm.png 480w ,https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-md.png 768w ,https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-lg.png 1024w">
+      <img loading="lazy" src="https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/275850_20230903001954_1.png" height="1080" width="1920" alt="A photo from the video game No Man's Sky. The photo has the inner cockpit of a spaceship travelling towards a planet. There are streaks of light running across the cockpit glass suggesting the ship is moving faster than light "  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-xs.png 640w ,https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-sm.png 768w ,https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-md.png 1024w ,https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-lg.png 1366w ,https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-xl.png 1600w ,https://solarrunner81.github.io/SolarRunner81.github.io/media/posts/2/responsive/275850_20230903001954_1-2xl.png 1920w">
       <figcaption>Screenshot from No Man's Sky</figcaption>
     </figure>
 
